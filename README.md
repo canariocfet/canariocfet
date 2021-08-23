@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rodrigo Canario, a data scientist for over 2 years now, and very passionate about it.
-- 👀 I’m interested in Data Science and hard sciences.
+- 👀 I’m very interested in data-driven cultures and scientific computation.
 - 🌱 I’m currently learning machine learning advanced tools.
 - 💞️ I’m looking to collaborate on data science statistic testing and performance measuring.
 - 📫 How to reach me: canariocfet@gmail.com or linkedin.com/in/rodrigo-canario
